@@ -1,1 +1,1 @@
-# zbb
+This is a fruit detection program running on K210 (MaixPy) that can identify pears, apples, watermelons, and bananas. It highlights the detected fruit on the screen, pulls the corresponding GPIO high, and sends a message like “#K210=3*” via serial communication to notify the external MCU.
